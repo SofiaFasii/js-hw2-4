@@ -1,0 +1,21 @@
+{
+  "name": "js-hw2-4",
+  "version": "1.0.0",
+  "description": "дз 4",
+  "homepage": "https://github.com/SofiaFasii/js-hw2-4#readme",
+  "bugs": {
+    "url": "https://github.com/SofiaFasii/js-hw2-4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiaFasii/js-hw2-4.git"
+  },
+  "license": "ISC",
+  "author": "Sofia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
